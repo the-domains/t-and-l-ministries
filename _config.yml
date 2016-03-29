@@ -1,0 +1,28 @@
+name: 'T&L Ministries'
+favicon: null
+layout_spectrum: 0.05115083861164749
+typography_spectrum: 0.3803809601813555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10489682829938829
+  lightness: 0.25180433481000364
+  saturation: 0.992543991887942
+  rhythmicContrast: 0.5375644438900054
+purpose: []
