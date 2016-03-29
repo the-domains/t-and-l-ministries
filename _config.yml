@@ -1,29 +1,41 @@
-name: 'T&L Ministries'
-favicon: null
-layout_spectrum: 0.97896
-typography_spectrum: 0.67493
 title: 'T&L Ministries'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5035842
+  brandStrength: 1
+  lightness: 0.4874552
   brandColors:
     - '#ffffff'
     - '#4db7ad'
     - '#000000'
     - '#593192'
     - '#cbbedc'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'T&L Ministries'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.67493
+layout_spectrum: 0.97896
