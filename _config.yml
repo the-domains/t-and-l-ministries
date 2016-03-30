@@ -1,6 +1,6 @@
 name: 'T&L Ministries'
 favicon: null
-layout_spectrum: 0.48144
+layout_spectrum: 0.62005
 typography_spectrum: 0.67493
 title: 'T&L Ministries'
 collections:
@@ -34,7 +34,7 @@ color:
     - '#000000'
     - '#593192'
     - '#cbbedc'
-  brandStrength: 0.5
+  brandStrength: 0.6875
   lightness: 0.6875
   saturation: 1
   rhythmicContrast: 0
