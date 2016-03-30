@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-30T21:51:17.566Z'
-dateModified: '2016-03-30T21:50:54.063Z'
+datePublished: '2016-03-30T23:19:17.816Z'
+dateModified: '2016-03-30T23:19:11.622Z'
 author: []
-title: ' '
+title: '#arkstories '
 sourcePath: _posts/2016-03-30-arkstories.md
 published: true
 authors: []
