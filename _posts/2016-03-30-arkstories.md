@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-30T21:50:44.941Z'
-dateModified: '2016-03-30T21:50:43.374Z'
+datePublished: '2016-03-30T21:51:17.566Z'
+dateModified: '2016-03-30T21:50:54.063Z'
 author: []
 title: ' '
 sourcePath: _posts/2016-03-30-arkstories.md
@@ -24,5 +24,3 @@ _type: Article
 
 ---
 ![Found this in a rental car glove compartment.. Belongs to someone named Alanna. Could be a Christmas card? #arkstories](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12424743_584704561696234_1297440723_n.jpg?ig_cache_key=MTIxNDAwNTQzMTExODczODE3OQ%3D%3D.2)
-
-#
